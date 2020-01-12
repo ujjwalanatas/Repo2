@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 928B-548C
+
+ Directory of C:\Users\UjjwalYadav\Desktop\MyDocs\Learning\Jenkins
+
+11/01/2020  09:09 PM    <DIR>          .
+11/01/2020  09:09 PM    <DIR>          ..
+11/01/2020  09:09 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  333,949,788,160 bytes free
